@@ -1,6 +1,6 @@
 <h1>About this project</h1>
 <br>
-![image](https://user-images.githubusercontent.com/111225654/228876973-4d2da6c0-9f20-4e52-b86c-a7c189b1970c.png)
+![image](https://user-images.githubusercontent.com/111225654/228879234-f2e927d7-1073-4d18-a311-cd0f87f3efed.png)
 
 
 <p>사용자 입장에서 홈페이지를 조금더 사용하기 쉽게 UI/UX 디자인를 변경하여 대구백화점 페이지를 리뉴얼 하였습니다.</p>
