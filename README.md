@@ -7,4 +7,4 @@
 ![image](https://user-images.githubusercontent.com/111225654/228880495-361197bb-5c0e-4506-849a-ca72373b1b28.png)
 
 
-👉 단디 홈페이지: <a href="http://siss9898.ivyro.net/DEBEC/" target="_blank"/>Live Demo</a>
+👉 Live Demo: <a href="http://siss9898.ivyro.net/DEBEC/" target="_blank"/>Live Demo</a>
